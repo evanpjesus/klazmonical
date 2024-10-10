@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @klazmonical
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Solidity and Ethereum Blockchain
-- 💞️ I’m looking to collaborate on Making the next Blockchain Dapp
+- 👀 I’m interested in software development and cyber security
+- 🌱 I’m currently studying Software Engineering
 - 📫 How to reach me evanpjesus2@gmail.com
 
 <!---
